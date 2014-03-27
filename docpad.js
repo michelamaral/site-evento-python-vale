@@ -66,7 +66,7 @@ module.exports = {
       {
         name: "Check-in",
         time: "14h00"
-      },
+      }/*,
       {
         name: "Giovane Liberato",
         photo: "https://avatars3.githubusercontent.com/u/2964631?s=400",
@@ -79,9 +79,91 @@ module.exports = {
         presentation: {
           title: "A arte de converter Javeiros para serem Pythonistas.",
           description: "Converta Javeiros com poucas linhas de código.",
-          time: "14h30"
+          time: "14h20"
         }
-      }
+      },
+     
+      {
+        name: "Denis Costa",
+        photo: "https://pbs.twimg.com/profile_images/1938184395/ca2b5813ded9633f64cf1e276dd0e9dd.jpeg",
+        bio: "",
+        company: "",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "",
+          description: "",
+          time: "15h00"
+        }
+      },
+      {
+        name: "Renzo Nuccitelli",
+        photo: "http://agilevale.com.br/images/speakers/speaker-renzo-nuccitelli.png",
+        bio: "",
+        company: "",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "",
+          description: "",
+          time: "15h20"
+        }
+      },
+      {
+        name: "Intervalo",
+        time: "16h20"
+      },
+      {
+        name: "Palestra 4",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "",
+        company: "",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "",
+          description: "",
+          time: "16h40"
+        }
+      },
+      
+      {
+        name: "Palestra 5",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "",
+        company: "",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "",
+          description: "",
+          time: "17h20"
+        }
+      },
+      
+      {
+        name: "Palestra 6",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "",
+        company: "",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "",
+          description: "",
+          time: "18h00"
+        }
+      }*/
     ],
 
     // List of Sponsors
