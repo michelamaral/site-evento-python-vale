@@ -7,7 +7,7 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Python Vale",
+      name: "PYTHON VALE",
       description: "Grupo de usuários Python do vale!",
       date: "12 de Abril de 2014",
       // If your event is free, just comment this line
