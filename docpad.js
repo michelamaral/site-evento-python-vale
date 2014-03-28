@@ -45,7 +45,7 @@ module.exports = {
       'location',
       'speakers',
       'schedule',
-      'sponsors',
+      //'sponsors',
       'partners'
       // 'contact'
     ],
@@ -56,8 +56,8 @@ module.exports = {
       location: "Localização",
       speakers: "Palestrantes",
       schedule: "Agenda",
-      sponsors: "Patrocinadores",
-      partners: "Parceiros",
+      //sponsors: "Patrocinadores",
+      partners: "Patrocinadores",
       contact: "Contato"
     },
 
@@ -166,22 +166,39 @@ module.exports = {
       }*/
     ],
 
-    // List of Sponsors
+    /* List of Sponsors
     sponsors: [
       {
-        //name: "Eventick",
-        //logo: "themes/yellow-swan/img/sponsor.png",
-        //url: "http://eventick.com.br"
+        name: "Designa",
+        logo: "themes/yellow-swan/img/designa-logo.png",
+        url: "http://designa.com.br"
+      },
+      {
+        name: "ZNC Sistemas",
+        logo: "themes/yellow-swan/img/znc-logo.png",
+        url: "http://designa.com.br"
       }
-    ],
+    ],*/
 
     // List of Partners
     partners: [
       {
-        //name: "BrazilJS",
-        //logo: "themes/yellow-swan/img/partner.png",
-        //url: "http://braziljs.org"
-      }
+        name: "Designa",
+        logo: "themes/yellow-swan/img/designa-logo.png",
+        url: "http://designa.com.br"
+      },
+      /*{
+        name: "ZNC Sistemas",
+        logo: "themes/yellow-swan/img/znc-logo.png",
+        url: "http://designa.com.br"
+      },
+      {
+        name: "Red Hat",
+        logo: "themes/yellow-swan/img/redhat-logo.png",
+        url: "http://br.redhat.com/"
+      },
+      
+      */
     ],
 
     // Theme path
