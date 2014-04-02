@@ -70,8 +70,8 @@ module.exports = {
       {
         name: "Iuri de Silvio",
         photo: "https://avatars1.githubusercontent.com/u/105852?s=460",
-        bio: "",
-        company: "",
+        bio: "Engenheiro de Computação pelo ITA. Desenvolvedor Python há 7 anos, criador do bottle-sqlalchemy, core developer do bottle e participante em outros projetos com os principais frameworks web do Python (django, flask, bottle).",
+        company: "Pricez",
         link: {
           href: "http://twitter.com/iurisilvio",
           text: "@iurisilvio"
