@@ -173,7 +173,7 @@ module.exports = {
       {
         name: "William Siqueira",
         photo: "http://i.imgur.com/S2G5SEi.jpg",
-        bio: "Formado na FATEC de São José dos Campos, tem cerca de 5 anos de experiência na área de TI. Trabalhou com ABAP, Business Objects, Linguagem C e atualmente é Analista de Suporte na Red Hat atuando no suporte de ferramentas JBoss.",
+        bio: 'Formado na FATEC de São José dos Campos, tem cerca de 5 anos de experiência na área de TI. Trabalhou com ABAP, Business Objects, Linguagem C e atualmente é Analista de Suporte na Red Hat atuando no suporte de ferramentas JBoss.',
         company: "Red Hat",
         link: {
           href: "https://twitter.com/William_Antonio",
@@ -181,7 +181,7 @@ module.exports = {
         },
         presentation: {
           title: "Novidades do Java 8 pra pythonista nenhum botar defeito",
-          description: "A programação Java fica menos dolorosa e mais fácil com a adição de expressões lambdas no Java 8. A nova versão da plataforma ainda traz outras melhorias como melhor integração com javascript, métodos estáticos e "default" em interfaces e JavaFX como parte da API padrão e não mais uma biblioteca a parte. Nessa apresentação vamos mostrar como aplicações "corriqueiras" podem ser re-escritas usando expressões Lambdas além de brevemente discutir as outras novas características dessa nova versão da plataforma Java.",
+          description: 'A programação Java fica menos dolorosa e mais fácil com a adição de expressões lambdas no Java 8. A nova versão da plataforma ainda traz outras melhorias como melhor integração com javascript, métodos estáticos e "default" em interfaces e JavaFX como parte da API padrão e não mais uma biblioteca a parte. Nessa apresentação vamos mostrar como aplicações "corriqueiras" podem ser re-escritas usando expressões Lambdas além de brevemente discutir as outras novas características dessa nova versão da plataforma Java.',
           time: "16h10"
         }
       },
