@@ -101,11 +101,11 @@ module.exports = {
       {
         name: 'Márcio Ramos',
         photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t1.0-1/c13.52.166.166/s160x160/554715_10151036510938981_339501766_n.jpg",
-        bio: "Márcio Ramos é aluno do quarto ano de engenharia de computação no ITA. No segundo ano, começou a sua paixão por Python e hoje é sonha em ser um cientista maluco que possa usar python como ferramenta.",
+        bio: "Márcio Ramos é aluno do quarto ano de engenharia de computação no ITA. No segundo ano, começou a sua paixão por Python e hoje sonha em ser um cientista maluco que possa usar python como ferramenta.",
         company: "ITA. Former: Geekie.",
         link: {
           href: "http://www.facebook.com/marrciovr",
-          text: "Márcio Ramos"
+          text: "@marrciovr"
         },
         presentation: {
           title: "Python científico",
@@ -120,11 +120,11 @@ module.exports = {
       {
         name: "Danilo Bellini",
         photo: "https://avatars0.githubusercontent.com/u/2096474?s=460",
-        bio: "",
+        bio: "Danilo Bellini é, pela USP, engenheiro eletricista, bacharel em música e mestre em ciência da computação. Como desenvolvedor, colaborou em projetos open source como openModeller, py.test e simplekv, além de ter criado a biblioteca AudioLazy para DSP (Digital Signal Processing) em Python. Auxilia Coding Dojos em São Paulo, para os quais elaborou o dose.py, GUI de semáforo para TDD agnóstica de linguagem.",
         company: "",
         link: {
-          href: "",
-          text: ""
+          href: "http://twitter.com/danilobellini",
+          text: "@danilobellini"
         },
         presentation: {
           title: "Sweet Child[ren] o' AudioLazy!",
@@ -159,8 +159,8 @@ module.exports = {
           text: "@reginaldojsf"
         },
         presentation: {
-          title: "Tema a confirmar",
-          description: "",
+          title: "Como ser invadido em Django: plugins e casos de mau uso",
+          description: "A palestra abordará temas gerais sobre segurança que surgem (ou deveriam surgir) durante o desenvolvimento de uma aplicação em Django. Por exemplo, enquanto o framework principal é bem seguro, existem algumas armadilhas. Já entre os plugins, podem ser encontrados nos mais variados níveis de qualidade e segurança.",
           time: "14h50"
         }
       },
@@ -180,8 +180,8 @@ module.exports = {
           text: "@william_antonio"
         },
         presentation: {
-          title: "Tema a confirmar",
-          description: "",
+          title: "Novidades do Java 8 pra pythonista nenhum botar defeito",
+          description: "A programação Java fica menos dolorosa e mais fácil com a adição de expressões lambdas no Java 8. A nova versão da plataforma ainda traz outras melhorias como melhor integração com javascript, métodos estáticos e "default" em interfaces e JavaFX como parte da API padrão e não mais uma biblioteca a parte. Nessa apresentação vamos mostrar como aplicações "corriqueiras" podem ser re-escritas usando expressões Lambdas além de brevemente discutir as outras novas características dessa nova versão da plataforma Java.",
           time: "16h10"
         }
       },
