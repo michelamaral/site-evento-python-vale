@@ -82,19 +82,19 @@ module.exports = {
           time: "10h00"
         }
       },
-     
+
       {
-        name: "Giovane Liberato",
-        photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t1.0-1/p160x160/10003497_730736450292110_2095235144_n.jpg",
-        bio: "Giovane Liberato, 21 anos. É formando na Fatec SJC e atualmente trabalha na Startup de EdTech QMágico, utilizando Python, Google App Engine, Django e AngularJs",
+        name: "Denis Costa",
+        photo: "https://avatars3.githubusercontent.com/u/358777?s=460",
+        bio: "Denis Costa, fugiu de Brasília e hoje é programador. Quando sobra tempo trabalha na startup de educação QMágico e estuda na FATEC de São José dos Campos.",
         company: "QMágico",
         link: {
-          href: "http://about.me/giovaneliberato",
-          text: "@giovaneliberato"
+          href: "http://twitter.com/deniscostadsc",
+          text: "@deniscostadsc"
         },
         presentation: {
-          title: "Python 4 Grownups: O primeiro passo depois do hello world",
-          description: "A intenção desta palestra é mostrar aos iniciantes em python como escrever código de uma maneira mais elegante e pythonista.. o objetivo principal é indicar aos programadores iniciantes qual o caminho para sair do básico e evoluir na linguagem. Apresento frameworks, facilidades da biblioteca padrão, funções built-ins, dunder methods e outras coisas que vão fazer seu código ficar mais pythonista.",
+          title: "Python: Por onde começo?",
+          description: "Quando você está começando a aprender qualquer coisa, uma das maiores dificuldades é saber por onde começar. Nesta palestra vou mostrar alguns caminhos básicos de como se iniciar no maravilhoso mundo da programação.",
           time: "10h40"
         }
       },
@@ -134,20 +134,20 @@ module.exports = {
       },
       
       {
-        name: "Robson Júnior",
-        photo: "https://avatars1.githubusercontent.com/u/123325?s=460",
-        bio: "",
+        name: "Giovane Liberato",
+        photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t1.0-1/p160x160/10003497_730736450292110_2095235144_n.jpg",
+        bio: "Giovane Liberato, 21 anos. É formando na Fatec SJC e atualmente trabalha na Startup de EdTech QMágico, utilizando Python, Google App Engine, Django e AngularJs",
         company: "QMágico",
         link: {
-          href: "",
-          text: ""
+          href: "http://about.me/giovaneliberato",
+          text: "@giovaneliberato"
         },
         presentation: {
-          title: "Tema a confirmar",
-          description: "",
+          title: "Python 4 Grownups: O primeiro passo depois do hello world",
+          description: "A intenção desta palestra é mostrar aos iniciantes em python como escrever código de uma maneira mais elegante e pythonista.. o objetivo principal é indicar aos programadores iniciantes qual o caminho para sair do básico e evoluir na linguagem. Apresento frameworks, facilidades da biblioteca padrão, funções built-ins, dunder methods e outras coisas que vão fazer seu código ficar mais pythonista.",
           time: "14h10"
         }
-      },      
+      },  
 
       {
         name: "Reginaldo Silva",
