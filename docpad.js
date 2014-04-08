@@ -239,6 +239,11 @@ module.exports = {
         logo: "themes/yellow-swan/img/designa-logo.png",
         url: "http://designa.com.br"
       },
+      {
+        name: "Novatec Editora",
+        logo: "http://rupy.com.br/public/images/logo-novatec.png",
+        url: "http://novatec.com.br/"
+      },
       /*{
         name: "ZNC Sistemas",
         logo: "themes/yellow-swan/img/znc-logo.png",
@@ -248,8 +253,7 @@ module.exports = {
         name: "Red Hat",
         logo: "themes/yellow-swan/img/redhat-logo.png",
         url: "http://br.redhat.com/"
-      },
-      
+      }      
       */
     ],
 
