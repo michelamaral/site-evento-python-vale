@@ -252,7 +252,7 @@ module.exports = {
       
       {
         name: "Red Hat",
-        logo: "themes/yellow-swan/img/redhat-logo.png",
+        logo: "http://www.wkrb13.com/logos/red-hat-logo.jpg",
         url: "http://br.redhat.com/"
       }      
     ],
