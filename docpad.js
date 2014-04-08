@@ -249,13 +249,12 @@ module.exports = {
         logo: "themes/yellow-swan/img/znc-logo.png",
         url: "http://www.znc.com.br/"
       },
-      /*
+      
       {
         name: "Red Hat",
         logo: "themes/yellow-swan/img/redhat-logo.png",
         url: "http://br.redhat.com/"
       }      
-      */
     ],
 
     // Theme path
