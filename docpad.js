@@ -244,11 +244,12 @@ module.exports = {
         logo: "http://rupy.com.br/public/images/logo-novatec.png",
         url: "http://novatec.com.br/"
       },
-      /*{
+      {
         name: "ZNC Sistemas",
         logo: "themes/yellow-swan/img/znc-logo.png",
-        url: "http://designa.com.br"
+        url: "http://www.znc.com.br/"
       },
+      /*
       {
         name: "Red Hat",
         logo: "themes/yellow-swan/img/redhat-logo.png",
