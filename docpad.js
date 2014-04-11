@@ -201,21 +201,21 @@ module.exports = {
         }
       },
       
-      {
-        name: "Thiago Avelino",
-        photo: "https://avatars1.githubusercontent.com/u/31996?s=460 ",
-        bio: "Software Engineer na UP! e Matematico pela IME/USP, especialista desenvolvimento assíncrono, sistemas distribuídos e parsers, atuante na comunidade open source, sendo core desenvolvedor de projetos como Bottle, Django, MongoDB, Riak, MongoEngine e outros... ",
-        company: "UP Essência",
-        link: {
-          href: "https://twitter.com/avelino0",
-          text: "@avelino0"
-        },
-        presentation: {
-          title: "OpenMining: software open source de BI escrito em Python",
-          description: "O mercado de Business Intelligence (BI) hoje roda entorno do Pentaho (que por sinal é uma ótima suite de software), a curva de aprendizado para aprender trabalhar com a suite do Pentaho é muito grande, principalmente a criação de dashboard (pagina onde é visualizado os relatórios). Vamos fazer um overview de como o OpenMining funciona e como é feito o processamento de grandes informações.",
-          time: "17h30"
-        }
-      }
+      // {
+      //   name: "Thiago Avelino",
+      //   photo: "https://avatars1.githubusercontent.com/u/31996?s=460 ",
+      //   bio: "Software Engineer na UP! e Matematico pela IME/USP, especialista desenvolvimento assíncrono, sistemas distribuídos e parsers, atuante na comunidade open source, sendo core desenvolvedor de projetos como Bottle, Django, MongoDB, Riak, MongoEngine e outros... ",
+      //   company: "UP Essência",
+      //   link: {
+      //     href: "https://twitter.com/avelino0",
+      //     text: "@avelino0"
+      //   },
+      //   presentation: {
+      //     title: "OpenMining: software open source de BI escrito em Python",
+      //     description: "O mercado de Business Intelligence (BI) hoje roda entorno do Pentaho (que por sinal é uma ótima suite de software), a curva de aprendizado para aprender trabalhar com a suite do Pentaho é muito grande, principalmente a criação de dashboard (pagina onde é visualizado os relatórios). Vamos fazer um overview de como o OpenMining funciona e como é feito o processamento de grandes informações.",
+      //     time: "17h30"
+      //   }
+      // }
     ],
 
     /* List of Sponsors
