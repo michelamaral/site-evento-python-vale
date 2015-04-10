@@ -1,4 +1,6 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 <p>O Python User Group do Vale do Paraíba (PUG-Vale) é uma iniciativa comunitária que tem o objetivo de reunir os desenvolvedores e demais interessados na linguagem de programação Python e em suas tecnologias associadas.</p>
-<p>A finalidade do grupo é difundir o uso de Python na região, promovendo espaços e oportunidades para networking e troca de experiências.</p>
-<p>O evento é gratuito, mas pedimos a sua contribuição com 1 quilo de feijão para que seja doado para uma instituição da região.</p>
+<p>A <a href="https://www.facebook.com/media/set/?set=a.242269085960419.1073741829.237925256394802&type=3">primeira edição</a> contou com mais de 80 participantes e este ano o encontro vem como aquecimento para a <a href="http://pythonbrasil.org.br/">Python Brasil</a>, que acontece em outubro na cidade.</p>
+<p>Através de palestras, painéis de debates e networking buscamos difundir a tecnologia Python na região do Vale do Paraíba, que tem um potencial imenso de desenvolvimento tecnológico.</p>
+<p>O evento é gratuito, mas pedimos a sua contribuição com 1 quilo de feijão para que seja doado para uma instituição da região. Veja como foi a doação da primeira edição <a href="https://www.facebook.com/media/set/?set=a.242860965901231.1073741830.237925256394802&type=3">clicando aqui</a>.</p>
+<p>Ajude-nos na divulgação e até o evento!</p>

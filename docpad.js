@@ -34,7 +34,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://pythonvale.com.br/",
       googleanalytics: "UA-33656081-1"
     },
 
