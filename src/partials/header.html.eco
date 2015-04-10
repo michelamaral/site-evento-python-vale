@@ -9,7 +9,7 @@
   <div class="wrapper">
     <h1 class="logo-name">
       <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name">
-        <img src="<%= @conf.logo %>" alt="<%= @conf.name %>">
+        <img class="logo" src="<%= @conf.logo %>" alt="<%= @conf.name %>">
       </a>
     </h1>
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
